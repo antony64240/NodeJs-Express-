@@ -1,31 +1,31 @@
 {
   "route":{
-    "dev":"http://localhost:3000/",
-    "prod":"http://86.234.214.142:3001/"
+    "dev":"/",
+    "prod":/"
   },
   "Folder":{
-    "path":"C:/Users/anton/eclipse-workspace/FichierClient/"
+    "path":"/"
   },
-  "name": "HDI Server",
-  "ip": "localhost",
-  "portHttp": 3001,
+  "name": "r",
+  "ip": "",
+  "portHttp": ,
   "jwt": {
-    "secret": "azerty",
-    "bundle_identifier": "fr.hdi.application",
+    "secret": "",
+    "bundle_identifier": "n",
     "applicationId": "com.hdi"
   },
   "encrypt": {
-    "secret": "azerty"
+    "secret": ""
   },
   "http": {
-    "key": "azerty"
+    "key": ""
   },
   "MailSender":{
-    "mail":"hdi.designconceptcoa@gmail.com",
-    "password":"270295Az+"
+    "mail":"m",
+    "password":"+"
   },
   "Mongoose":{
-    "login":"amezzas",
-    "mdp":"5Fk28OTmMSkOKl7I"
+    "login":"",
+    "mdp":""
   }
 }
